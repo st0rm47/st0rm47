@@ -1,5 +1,3 @@
-<br clear="both">
-
 <h2 align="center">Hey👋, I'm Subodh Ghimire</h2>
 
 ###
@@ -9,7 +7,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=st0rm47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="150" alt="languages graph"  />
 </div>
 
-<h2 align="center"></h2>
 
 
 <img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExenZvN3V0ZnB0c2huaDBvZGZtdzJjM2VjeTc5YzF5aG9tMjU1a296cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fwbZnTftCXVocKzfxR/giphy.gif"  />
@@ -48,10 +45,6 @@
   </a>
 </div>
 
-
-<br clear="both">
-
-<h2 align="center"></h2>
 
 
 
