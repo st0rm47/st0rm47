@@ -56,7 +56,7 @@
 <h2 align="center"></h2>
 
 
-<img src="https://raw.githubusercontent.com/st0rm47/st0rm47/output/snake.svg" alt="Snake animation" />
+![snake animation](https://github.com/<seu user name>/<seu user name>/blob/output/github-contribution-grid-snake2.svg)
 
 ###
 
