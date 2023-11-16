@@ -56,7 +56,7 @@
 <h2 align="center"></h2>
 
 
-![snake animation](https://github.com/<seu st0rm47>/<seu st0rm47>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/st0rm47/st0rm47/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
