@@ -7,7 +7,7 @@
 
  <img src="https://streak-stats.demolab.com?user=st0rm47&locale=en&mode=daily&theme=react&hide_border=true&border_radius=20" height="175" alt="streak graph" style="border-radius: 20px; border: 1px solid #ddd;">
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=st0rm47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=4&theme=react&hide_border=true&border_radius=15" height="175" alt="languages graph" style="border-radius: 15px; border: 1px solid #ddd;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=st0rm47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&border_radius=15" height="175" alt="languages graph" style="border-radius: 15px; border: 1px solid #ddd;">
 
 </div>
 
