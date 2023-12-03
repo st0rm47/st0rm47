@@ -22,6 +22,7 @@
 <div align="center">
   <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img width="15" />
+
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
