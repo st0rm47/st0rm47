@@ -36,6 +36,9 @@
   <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
   <img width="15" />
   <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="50" alt="git logo"  />
+</div>
 </div>
 
 ###
@@ -63,8 +66,5 @@
 <img src="https://raw.githubusercontent.com/st0rm47/st0rm47/output/snake.svg" alt="Snake animation" />
 
 ###
-
-
-
 
 
