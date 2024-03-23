@@ -48,8 +48,7 @@
 <div align="center">
   <a href="https://www.instagram.com/sub0dh.g/" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" style="border: none; outline: none;"/>
-</a>
-
+  </a>
   <a href="https://discord.com/users/563727648170311693" target="_blank" style="text-decoration: none;">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo"  />
   </a>
@@ -59,7 +58,8 @@
   <a href="https://www.linkedin.com/in/subodh-ghimire-737519268/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
   </a>
-<img align = "right" src="https://komarev.com/ghpvc/?username=st0rm47&label=Profile%20views&color=000000&style=flat" alt="st0rm47" /> </p>
+   <img align ="right" src="https://profile-counter.glitch.me/st0rm47/count.svg?" />
+</div>
 
 ###
 </div>
