@@ -57,8 +57,8 @@
   </a>
   <a href="https://www.linkedin.com/in/subodh-ghimire-737519268/">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="47" height="35" alt="linkedin logo"  />
-  </a>
-   <img align ="right" src="https://profile-counter.glitch.me/st0rm47/count.svg?" />
+<!--   </a>
+   <img align ="right" src="https://profile-counter.glitch.me/st0rm47/count.svg?" /> -->
 </div>
 
 ###
