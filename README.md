@@ -20,24 +20,40 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img width="15" />
+ 
+  <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
+  <img width="15" />
+  
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
   <img width="15" />
 
   <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
   <img width="15" />
+  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="css3 logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="15" />
+  
   <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  
+  <img src="https://skillicons.dev/icons?i=figma" height="50" alt="figma logo"  />
   <img width="15" />
-  <img src="https://cdn.simpleicons.org/c++/00599C" height="50" alt="cplusplus logo"  />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="50" alt="numpy logo"  />
   <img width="15" />
-  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="50" alt="pandas logo"  />
   <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="50" alt="matlab logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" height="50" alt="git logo"  />
+  
+</div>
+
+###
 </div>
 </div>
 
