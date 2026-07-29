@@ -4,8 +4,8 @@
 ###
 
 <div style="display: flex; justify-content: space-between;" align="center">
-  <img src="https://streak-stats.demolab.com?user=st0rm47&theme=react&hide_border=true&border_radius=20&short_numbers=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=st0rm47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&border_radius=15" height="175" alt="languages graph" style="border-radius: 15px; border: 1px solid #ddd;">
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=st0rm47&theme=react&hide_border=true&border_radius=20&short_numbers=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-lac-one-31.vercel.app/api/top-langs?username=st0rm47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&border_radius=15" height="200" alt="languages graph" style="border-radius: 15px; border: 1px solid #ddd;"/>
 
 </div>
 
@@ -79,15 +79,11 @@
    <img align ="right" src="https://profile-counter.glitch.me/st0rm47/count.svg?" /> -->
 </div>
 
-###
-</div>
-<h2 align="center"></h2>
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/st0rm47/st0rm47/pacman-output/galaga-contribution-graph-dark.svg?game=galaga">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/st0rm47/st0rm47/pacman-output/galaga-contribution-graph.svg?game=galaga">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/st0rm47/st0rm47/pacman-output/galaga-contribution-graph.svg?game=galaga">
-</picture>
+###
+
+<img src="https://raw.githubusercontent.com/st0rm47/st0rm47/output/snake.svg" alt="Snake animation" />
+
 ###
 
 <div>
