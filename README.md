@@ -1,13 +1,39 @@
+<h3 align="center">Subodh Ghimire</h3>
 
-<h2 align="center">Hey👋, I'm Subodh Ghimire</h2>
+<p align="center">
+  AI/ML &amp; Backend Developer building scalable APIs and machine learning systems
+</p>
 
-###
+---
 
-<div style="display: flex; justify-content: space-between;" align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=st0rm47&theme=react&hide_border=true&border_radius=20&short_numbers=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-lac-one-31.vercel.app/api/top-langs?username=st0rm47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&border_radius=15" height="200" alt="languages graph" style="border-radius: 15px; border: 1px solid #ddd;"/>
-
+<p align="center">
+  <a href="https://ghimiresubodh.com.np">
+    <img src="./open-portfolio.svg" alt="View portfolio" height="45" />
+  </a>
+  <div align="center">
+  <a href="https://www.instagram.com/sub0dh.g/" target="_blank" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" style="display:block; display:inline-block; margin-right:8px;" /></a>
+  <a href="https://discord.com/users/563727648170311693" target="_blank" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo" style="display:block; display:inline-block; margin-right:8px;" /></a>
+  <a href="mailto:subodhghimire.dev@gmail.com" target="_blank" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" style="display:block; display:inline-block; margin-right:8px;" /></a>
+  <a href="https://www.linkedin.com/in/subodh-ghimire-dev/" target="_blank" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" style="display:block; display:inline-block;" /></a>
+<!--   </a>
+   <img align ="right" src="https://profile-counter.glitch.me/st0rm47/count.svg?" /> -->
 </div>
+</p>
+
+---
+
+<table align="center">
+  <tr>
+    <td valign="middle" align="center">
+        <img src="./ascii-portrait.svg" alt="ASCII portrait of Subodh, links to portfolio" height="370" />
+    </td>
+    <td valign="middle" align="center">
+      <img src="https://github-readme-streak-stats-eight.vercel.app?user=st0rm47&theme=react&hide_border=true&border_radius=20&short_numbers=true" alt="GitHub Streak" width="400" />
+      <br />
+      <img src="https://github-readme-stats-lac-one-31.vercel.app/api/top-langs?username=st0rm47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&border_radius=15" alt="Top languages" width="400" />
+    </td>
+  </tr>
+</table>
 
 
 
@@ -59,25 +85,13 @@
   <img src="https://skillicons.dev/icons?i=tensorflow" height="60" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=wordpress" height="60" alt="wordpress logo"  />
-  
-</div>
 
-###
-</div>
 </div>
 
 ###
 
 <h2 align="center"></h2>
 
-<div align="center">
-  <a href="https://www.instagram.com/sub0dh.g/" target="_blank" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="50" height="40" alt="instagram logo" style="display:block; display:inline-block; margin-right:8px;"/></a>
-  <a href="https://discord.com/users/563727648170311693" target="_blank" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="50" height="40" alt="discord logo" style="display:block; display:inline-block; margin-right:8px;"  /></a>
-  <a href="mailto:ghimiresubodh59@gmail.com" target="_blank" style="text-decoration: none;"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="50" height="40" alt="gmail logo" style="display:block; display:inline-block; margin-right:8px;" /></a>
-  <a href="https://www.linkedin.com/in/subodh-ghimire-737519268/"><img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="50" height="40" alt="linkedin logo" style="display:block; display:inline-block;" /></a>
-<!--   </a>
-   <img align ="right" src="https://profile-counter.glitch.me/st0rm47/count.svg?" /> -->
-</div>
 
 
 ###
@@ -91,5 +105,3 @@
 </div>
 
 ###
-
-

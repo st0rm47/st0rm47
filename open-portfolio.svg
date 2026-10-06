@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     width="280"
+     height="52"
+     viewBox="0 0 280 52"
+     font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace"
+     role="img"
+     aria-label="View Portfolio">
+
+  <defs>
+    <filter id="softGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Main shell -->
+  <rect
+    x="1"
+    y="1"
+    width="278"
+    height="50"
+    rx="8"
+    fill="#050505"
+    stroke="#ffffff"
+    stroke-opacity=".22"
+    stroke-width="1"
+  />
+
+  <!-- Inner border -->
+  <rect
+    x="5"
+    y="5"
+    width="270"
+    height="42"
+    rx="5"
+    fill="none"
+    stroke="#ffffff"
+    stroke-opacity=".06"
+  />
+
+  <!-- Backend/system indicator -->
+  <g transform="translate(22 18)">
+
+    <!-- server rack -->
+    <rect
+      x="0"
+      y="0"
+      width="17"
+      height="5"
+      rx="1"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="1.2"
+    />
+
+    <rect
+      x="0"
+      y="8"
+      width="17"
+      height="5"
+      rx="1"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="1.2"
+    />
+
+    <!-- status lights -->
+    <circle cx="3.5" cy="2.5" r="1" fill="#ffffff"/>
+    <circle cx="3.5" cy="10.5" r="1" fill="#ffffff"/>
+
+    <circle cx="13.5" cy="2.5" r="1" fill="#ffffff" opacity=".4"/>
+    <circle cx="13.5" cy="10.5" r="1" fill="#ffffff" opacity=".4"/>
+
+    <!-- subtle pulse -->
+    <circle
+      cx="3.5"
+      cy="2.5"
+      r="1.8"
+      fill="none"
+      stroke="#ffffff"
+      opacity="0">
+      <animate
+        attributeName="r"
+        values="1.5;4;1.5"
+        dur="2s"
+        repeatCount="indefinite"/>
+      <animate
+        attributeName="opacity"
+        values=".4;0;.4"
+        dur="2s"
+        repeatCount="indefinite"/>
+    </circle>
+
+  </g>
+
+  <!-- Command -->
+  <text
+    x="54"
+    y="31"
+    font-size="14"
+    fill="#ffffff"
+    letter-spacing=".3">
+    Explore Portfolio
+  </text>
+
+  <!-- Blinking cursor -->
+  <rect
+    x="195"
+    y="18"
+    width="7"
+    height="15"
+    fill="#ffffff">
+    <animate
+      attributeName="opacity"
+      values="1;1;0;0"
+      keyTimes="0;0.5;0.51;1"
+      dur="1s"
+      repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Right-side execution mark -->
+  <g transform="translate(243 17)">
+
+    <circle
+      cx="9"
+      cy="9"
+      r="8"
+      fill="none"
+      stroke="#ffffff"
+      stroke-opacity=".3"
+    />
+
+    <path
+      d="M6 9h7M10 6l3 3-3 3"
+      fill="none"
+      stroke="#ffffff"
+      stroke-width="1.2"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+    />
+
+  </g>
+
+</svg>
