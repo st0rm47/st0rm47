@@ -1,10 +1,10 @@
-<h3 align="center">Subodh Ghimire</h3>
+<h1 align="center">Subodh Ghimire</h1>
 
-<p align="center">
+<!-- <p align="center">
   AI/ML &amp; Backend Developer building scalable APIs and machine learning systems
-</p>
+</p> -->
 
----
+
 
 <p align="center">
   <a href="https://ghimiresubodh.com.np">
