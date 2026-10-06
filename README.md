@@ -22,35 +22,7 @@
 
 ---
 
-<div align="center">
-
-<table>
-  <tr>
-    <td valign="middle" align="center">
-      <img
-        src="./ascii-portrait.svg"
-        alt="ASCII portrait of Subodh, links to portfolio"
-        height="370"
-      />
-    </td>
-
-    <td valign="middle" align="center">
-      <img
-        src="https://github-readme-streak-stats-eight.vercel.app?user=st0rm47&theme=react&hide_border=true&border_radius=20&short_numbers=true"
-        alt="GitHub Streak"
-        width="400"
-      />
-      <br />
-      <img
-        src="https://github-readme-stats-lac-one-31.vercel.app/api/top-langs?username=st0rm47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&border_radius=15"
-        alt="Top languages"
-        width="400"
-      />
-    </td>
-  </tr>
-</table>
-
-</div>
+<table align="center"> <tr> <td valign="middle" align="center"> <img src="./ascii-portrait.svg" alt="ASCII portrait of Subodh, links to portfolio" height="370" /> </td> <td valign="middle" align="center"> <img src="https://github-readme-streak-stats-eight.vercel.app?user=st0rm47&theme=react&hide_border=true&border_radius=20&short_numbers=true" alt="GitHub Streak" width="400" /> <br /> <img src="https://github-readme-stats-lac-one-31.vercel.app/api/top-langs?username=st0rm47&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&border_radius=15" alt="Top languages" width="400" /> </td> </tr> </table>
 
 
 <h2 align="center"></h2>
